@@ -25,4 +25,4 @@ names-usec-online.json
 
 NOTES
 - tested on JET Server 1.0.0 and 1.0.3
-- if you will manually add usernames, keep the character count below 9000
+- if you will manually add usernames, keep the total character count below 9000
