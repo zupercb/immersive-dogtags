@@ -3,13 +3,13 @@ author: zupercb
 
 
 OVERVIEW
-A simple mod that replaces the russian text dogtags that JET originally comes with
+A simple mod that replaces the russian text dogtags that JET was originally packaged as, 
 with dogtag names similar to what you would see online. This mod comes in 2 sets, 
 online style dogtags and regular english dogtags.
 
 
 INSTALL
-1. goto to your SP-Tarkov installation folder, towards 
+1. goto to your JET installation folder, towards 
     " " "\Server\db\bots\bear & then " " "\Server\db\bots\usec
 2. make a copy (or rename) the original files (names.json) 
 3. copy whatever set you want in their respective folder and rename as "names.json"
